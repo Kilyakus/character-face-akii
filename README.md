@@ -43,8 +43,8 @@ Akii Head — пара голов для VRChat-аватаров: мужская
 
 ## 📦 Что входит в пакет
 
-- Male Head FBX — мужская голова
-- Female Head FBX — женская голова
+- `Akii Male Head.fbx` — мужская голова
+- `Akii Female Head.fbx` — женская голова
 - Текстурные файлы: 6 текстур + карта нормалей
 - 25 текстур глаз + маска оттенка (Hue mask) и маска свечения (Emission Mask)
 - FBX-файлы, готовые к импорту в Blender
@@ -188,7 +188,7 @@ Akii Head — пара голов для VRChat-аватаров: мужская
 
 ## 📎 Источники
 
-1. `! INFO Read Akira.rtf.txt` — Условия использования для Akii Head Female VER
+1. `! INFO Read Akira.rtf` — Условия использования для Akii Head Female VER
 2. Оригинальная страница товара Akira: https://akiravr.com/p/akii-head/
 3. Akira Gumroad (товар): https://akiravr.gumroad.com/l/akiihead
 4. Akira Sellfy профиль: https://akiravr.sellfy.store
