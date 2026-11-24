@@ -1,0 +1,22 @@
+{
+  "name": "character-face-akii",
+  "version": "1.0.0",
+  "description": "Akii standalone head plugin with female and male variants",
+  "main": "src/index.js",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.js",
+    "./character": "./src/character.js",
+    "./manifest": "./src/manifest.json",
+    "./reference/*": "./reference/*",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "src/",
+    "reference/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kilyakus/character-face-akii.git"
+  }
+}

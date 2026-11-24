@@ -1,0 +1,14 @@
+{
+  "kind": "head",
+  "id": "character-face-akii",
+  "name": "Akii · standalone head plugin",
+  "entry": "character.js",
+  "default": false,
+  "order": 3,
+  "api": {
+    "entry": "index.js",
+    "engineAgnostic": true,
+    "requires": ["three", "FBXLoader"],
+    "exports": ["createAkii", "buildAkiiModel", "AKII_VARIANTS", "AKII_BONE_MAP", "AKII_BONES", "buildAkiiBindings"]
+  }
+}
